@@ -16,6 +16,7 @@
     "postcss": "^8.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-hot-toast": "^2.5.2",
     "reactflow": "^11.11.4",
     "tailwindcss": "^4.1.7",
     "uuid": "^11.1.0"
